@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntentsPractice</string>
+    <string name="detail">Detail >></string>
+    <string name="detail_heading">This is the Detail Activity</string>
+    <string name="enter_name">Enter your Name</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="browse_to">"Browse "</string>
+    <string name="enter_phone">Enter phone number</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="send_sms">Send</string>
+</resources>
